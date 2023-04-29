@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 log/
 .idea/
+**.iml
 
 ### STS ###
 .apt_generated
