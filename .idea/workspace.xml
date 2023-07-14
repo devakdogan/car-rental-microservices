@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d0c77e8-fb98-4bfd-9e85-83dbb6ade94e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/car-service/src/main/java/com/cr/model/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/car-service" />
@@ -128,7 +136,7 @@
       <workItem from="1682787003276" duration="2256000" />
       <workItem from="1685990068990" duration="334000" />
       <workItem from="1689337991826" duration="3315000" />
-      <workItem from="1689351491050" duration="571000" />
+      <workItem from="1689351491050" duration="1553000" />
     </task>
     <servers />
   </component>
